@@ -1,4 +1,5 @@
 # MFPC
+Formal Models of Concurrent Processes Course - Distributed Systems in Internet- UBB
 
 ## Requirement: ##
 * Distributed application
