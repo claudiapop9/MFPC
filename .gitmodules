@@ -1,0 +1,3 @@
+[submodule "MfpcProject-Client"]
+	path = MfpcProject-Client
+	url = https://github.com/claudiapop9/MfpcProject-Client.git
